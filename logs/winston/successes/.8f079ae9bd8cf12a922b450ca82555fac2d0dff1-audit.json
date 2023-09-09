@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\shami\\Downloads\\Project\\Express-starter\\logs\\winston\\successes\\.8f079ae9bd8cf12a922b450ca82555fac2d0dff1-audit.json",
+    "files": [
+        {
+            "date": 1694164274448,
+            "name": "C:\\Users\\shami\\Downloads\\Project\\Express-starter\\logs\\winston\\successes\\phu-2023-08-09-15-success.log",
+            "hash": "d5829d4d8549f703707d861e7c764e433c7d1d3efdf9824a78a689084509aede"
+        }
+    ],
+    "hashType": "sha256"
+}
